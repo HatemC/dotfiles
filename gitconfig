@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hatem.cherouat@gmail.com
+	name = Hatem Cherouat
